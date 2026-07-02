@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TaskTracker" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowSplashScreenBackground">#2E5A36</item> <!-- Forest Green -->
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item> <!-- Actual App Icon -->
+    </style>
+</resources>
